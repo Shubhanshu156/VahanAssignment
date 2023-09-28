@@ -19,3 +19,4 @@ The University Info App is an Android application that allows users to fetch and
 - **Room Database:** Room is used to store and manage the university data locally, allowing for efficient offline access.
 
 ## Video
+  <img src="https://raw.githubusercontent.com/Shubhanshu156/VahanAssignment/master/demogif.gif" height="370" width="200">
